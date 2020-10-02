@@ -1,0 +1,13 @@
+--- # history
+- contest: cf/102392
+- contest: cf/102501
+- contest: custom
+  name: NCTU 2020 Annual Programming Contest
+  date: 2020/09/08
+  slot: nctu2020
+- contest: cf/100781
+- contest: cf/100820
+- contest: cf/102348
+- contest: kattis/jabxwn
+  name: Benelux Algorithm Programming Contest (BAPC) 2015
+- contest: cf/100825
